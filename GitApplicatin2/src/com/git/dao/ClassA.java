@@ -8,4 +8,9 @@ public class ClassA {
 	public void m2() {
 		
 	}
+	private String Syso() {
+		
+		return "m1 to m2";
+
+	}
 }
